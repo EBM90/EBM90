@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Eric Blair and welcome to my GitHub!
+### Hi there 👋 My name is Eric Blair. Welcome to my GitHub!
 
 A full stack web developer looking for the next challenge.
 
