@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 My name is Eric Blair and welcome to my GitHub!
 
-<!--
-**EBM90/EBM90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full stack web developer looking for the next challenge.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=EBM90
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Ihave just graduated from IronHack's web developer bootcamp
+- 🌱 I’m currently learning more things about REACT
+- 👯 Check out my latest project with [Adrian](https://github.com/paniaguaadrian): [IronPadel](http://ironpadel.herokuapp.com/)
+- 📫 You can reach me at erbmart7@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EBM90)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
