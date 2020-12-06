@@ -9,7 +9,6 @@ A full stack web developer looking for the next challenge.
 - 👯 Check out my latest project with [Adrian](https://github.com/paniaguaadrian): [IronPadel](http://ironpadel.herokuapp.com/)
 - 📫 You can reach me at erbmart7@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EBM90)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=EBM90&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
