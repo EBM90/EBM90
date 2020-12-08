@@ -4,9 +4,9 @@ A full stack web developer looking for the next challenge.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EBM90" alt="EBM90" /> </p>
 
-- 🔭 Ihave just graduated from IronHack's web developer bootcamp
+- 🔭 I have just graduated from IronHack's web developer bootcamp.
 
-- 🌱 I’m currently learning more things about REACT
+- 🌱 I’m currently learning more things about REACT (Hooks, REACT Redux, REACT Native...) and TypeScript.
 
 - 👯 Check out my latest project with [Adrian](https://github.com/paniaguaadrian): [IronPadel](http://ironpadel.herokuapp.com/)
 
